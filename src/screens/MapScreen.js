@@ -7,7 +7,7 @@ import MapViewDirections from 'react-native-maps-directions';
 
 
 
-const GOOGLE_API_KEY = "AIzaSyCmzRsza1mLddzDpa8BJ2THWwPNi6Ii-5A"
+const GOOGLE_API_KEY = "KEY"
 const {width, height} = Dimensions.get('window')
 
 const ASPEC_RATIO = width/height;
